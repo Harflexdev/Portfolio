@@ -50,7 +50,7 @@ const Contact = () => {
             <IoLogoWhatsapp className='contact__option-icon' />
             <h4>WhatsApp</h4>
             <h5>+2348067356383</h5>
-            <a href=" https://wa.me/+2348067356383" target='_blank'>Send a Message</a>
+            <a href=" https://wa.me/+2348067356383" target='_blank'>Send Message</a>
           </motion.article>
 
           <motion.article className="contact__option"  variants={variants} initial="initial" whileInView="animate">
